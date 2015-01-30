@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\bin\Debug\LandsServer.exe.config
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\bin\Debug\LandsServer.exe
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\bin\Debug\LandsServer.pdb
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\obj\Debug\LandsServer.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\obj\Debug\LandsServer.exe
+c:\users\1\documents\visual studio 2013\Projects\LandsServer\LandsServer\obj\Debug\LandsServer.pdb
+D:\LandsProject\LandsServer\LandsServer\bin\Debug\LandsServer.exe.config
+D:\LandsProject\LandsServer\LandsServer\obj\Debug\LandsServer.exe
+D:\LandsProject\LandsServer\LandsServer\obj\Debug\LandsServer.pdb
+D:\LandsProject\LandsServer\LandsServer\bin\Debug\LandsServer.exe
+D:\LandsProject\LandsServer\LandsServer\bin\Debug\LandsServer.pdb
+D:\LandsProject\LandsServer\LandsServer\obj\Debug\LandsServer.csprojResolveAssemblyReference.cache
